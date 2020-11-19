@@ -1,6 +1,5 @@
 
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
+<html >
 <head>
 <title>Productos químicos de limpieza</title> 
 </head>
