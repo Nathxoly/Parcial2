@@ -1,5 +1,5 @@
 
-<html >
+<html>
 <head>
 <title>Productos químicos de limpieza</title> 
 </head>
@@ -31,7 +31,7 @@ function mifoto(num) { //cambiar la imagen
 </div>
 <div id="menu">
 <img src='foto1.jpg' alt='1. Amoniaco.' name='fotos1' onclick="mifoto(1)"/>
-<img src='foto2.jpg' alt='2. Blanqueador Clorox.' name='fotos2' onclick="mifoto(2)"/>nnh
+<img src='foto2.jpg' alt='2. Blanqueador Clorox.' name='fotos2' onclick="mifoto(2)"/>
 <img src='foto3.jpg' alt='3. Limpiador antibacterial.' name='fotos3' onclick="mifoto(3)"/>
 <img src='foto4.jpg' alt='4. Limpiador para pisos.' name='fotos4' onclick="mifoto(4)"/>
 <img src='foto5.jpg' alt='5. Desinfectante lavanda fabuloso.' name='fotos5' onclick="mifoto(5)"/>
@@ -46,4 +46,4 @@ function mifoto(num) { //cambiar la imagen
    </div>
 </div>
 </body>
-</html>
+</html> 
